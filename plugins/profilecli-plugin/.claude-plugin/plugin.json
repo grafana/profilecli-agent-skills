@@ -1,0 +1,10 @@
+{
+  "name": "profilecli-plugin",
+  "description": "Claude Code plugin providing profilecli-powered performance analysis skills for Pyroscope profiling data",
+  "version": "0.1.0",
+  "author": {
+    "name": "Grafana Pyroscope"
+  },
+  "repository": "https://github.com/grafana/profilecli-agent-skills",
+  "license": "AGPL-3.0"
+}

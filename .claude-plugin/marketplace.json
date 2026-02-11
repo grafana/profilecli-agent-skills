@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "name": "pyroscope-skills",
+  "owner": {
+    "name": "Grafana Pyroscope",
+    "url": "https://github.com/grafana/pyroscope"
+  },
+  "plugins": [
+    {
+      "name": "profilecli-plugin",
+      "source": "./plugins/profilecli-plugin",
+      "description": "Claude Code plugin providing profilecli-powered performance analysis skills for Pyroscope profiling data"
+    }
+  ]
+}
