@@ -1,5 +1,5 @@
 ---
-name: profile-insights
+name: profilecli-insights
 description: >
   Query a remote Pyroscope server to analyze CPU and memory profiling data
   and correlate hot functions with source code in this repository.
