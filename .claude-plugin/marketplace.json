@@ -1,9 +1,12 @@
 {
-  "version": 1,
   "name": "pyroscope-skills",
   "owner": {
     "name": "Grafana Pyroscope",
     "url": "https://github.com/grafana/pyroscope"
+  },
+  "metadata": {
+    "description": "Claude Code skills for analyzing Grafana Pyroscope continuous profiling data",
+    "version": "0.1.0"
   },
   "plugins": [
     {
